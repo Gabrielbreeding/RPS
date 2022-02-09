@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RPS</string>
+    <string name="btnToHome">Back To Home Page</string>
+
+    <!-- Main Screen -->
+    <string name="btnRock">Rock</string>
+    <string name="btnPaper">Paper</string>
+    <string name="btnScissors">Scissors</string>
+    <string name="btnHelp">Help</string>
+    <string name="btnTotals">Totals</string>
+
+    <!-- Splash Screen -->
+
+    <string name="gameName">Rock Paper Scissors!</string>
+    <string name="devName">By Gabriel Breeding</string>
+
+    <!-- Totals Screen -->
+    <string name="totalsTitle">Totals</string>
+</resources>
